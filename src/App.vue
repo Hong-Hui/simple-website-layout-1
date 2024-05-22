@@ -100,13 +100,13 @@
 
 		<!-- /* -------------------------------- Carousel -------------------------------- */ -->
 
-		<div class="h-[500px] p-10 bg-slate-50">
+		<div class="container mx-auto h-[500px] p-10 bg-slate-50">
 			<div class="container mx-auto"></div>
 		</div>
 
 		<!-- /* ------------------------------ Footer ----------------------------- */ -->
 
-		<div class="p-10 bg-slate-50">
+		<div class="container p-10 mx-auto">
 			<div class="container flex flex-col items-center max-w-3xl mx-auto">
 				<NavigationLinks />
 				<p class="mt-10 text-center">copyright</p>
